@@ -1,3 +1,3 @@
 # JavaMicroservices
 
-<img src="src\images\projeto.png"/>
+<img src="images\projeto.png"/>
