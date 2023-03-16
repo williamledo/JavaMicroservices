@@ -1,13 +1,13 @@
-package br.com.ufood.pagamentos;
+package br.com.ufood.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PagamentosApplication {
+public class GatewayApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PagamentosApplication.class, args);
+		SpringApplication.run(GatewayApplication.class, args);
 	}
 
 }
