@@ -3744,3 +3744,95 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:nett
 2023-03-16 15:38:36,578 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-03-16 15:38:36,610 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
 2023-03-16 15:38:36,633 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Projetos\JAVA\UFOOD\pedidos\src\test\resources
+2023-03-16 20:09:02,725 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-16 20:09:06,498 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 20:09:06,513 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 20:09:06,517 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Projetos\JAVA\UFOOD\gateway\src\test\resources
+2023-03-16 20:09:08,857 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 20:09:08,879 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 20:09:08,885 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Projetos\JAVA\UFOOD\pagamentos\src\test\resources
+2023-03-16 20:09:10,180 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 20:09:10,192 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-16 20:09:10,198 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Projetos\JAVA\UFOOD\pedidos\src\test\resources
+2023-03-16 20:09:10,845 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 20:09:10,860 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 20:09:10,863 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Projetos\JAVA\UFOOD\server\src\test\resources
+2023-03-16 21:30:22,243 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-16 21:44:52,980 [Worker-20: Launching server - ServerApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 21:44:53,000 [Worker-20: Launching server - ServerApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 21:44:53,004 [Worker-20: Launching server - ServerApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Projetos\JAVA\UFOOD\server\src\test\resources
+2023-03-16 21:44:54,448 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 21:44:54,468 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 21:44:54,473 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Projetos\JAVA\UFOOD\gateway\src\test\resources
+2023-03-16 21:44:56,247 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 21:44:56,269 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 21:44:56,280 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Projetos\JAVA\UFOOD\pagamentos\src\test\resources
+2023-03-16 21:44:57,367 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 21:44:57,384 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-16 21:44:57,390 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Projetos\JAVA\UFOOD\pedidos\src\test\resources
+2023-03-16 23:42:11,447 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 23:42:11,458 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 23:42:11,462 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Projetos\JAVA\UFOOD\pedidos\src\test\resources
+2023-03-16 23:43:54,130 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 23:43:54,135 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-16 23:43:54,137 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Projetos\JAVA\UFOOD\pedidos\src\test\resources
+2023-03-16 23:44:51,158 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 23:44:51,164 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-16 23:44:51,167 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Projetos\JAVA\UFOOD\pedidos\src\test\resources
+2023-03-17 09:42:11,681 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-17 11:09:15,946 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-03-17 11:10:43,187 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [270])
+2023-03-17 11:10:43,305 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-03-17 11:10:43,305 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-03-17 11:10:43,306 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-03-17 11:10:43,306 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-03-17 11:10:43,306 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-03-17 11:10:43,306 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-03-17 11:10:43,306 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-03-17 11:10:43,306 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-03-17 11:10:43,306 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-03-17 11:10:43,306 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-03-17 11:10:43,307 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-03-17 11:10:43,307 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-03-17 11:10:43,307 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-03-17 11:10:43,307 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-03-17 11:10:43,307 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-03-17 11:10:43,307 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-03-17 11:10:43,307 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-03-17 11:10:43,308 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-03-17 11:10:43,308 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-03-17 11:10:43,308 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-03-17 11:10:43,308 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-03-17 11:10:43,308 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-03-17 11:10:43,308 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-03-17 11:10:43,308 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-03-17 11:10:43,308 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-03-17 11:10:43,308 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-03-17 11:10:43,309 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-03-17 11:10:43,309 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-03-17 11:10:43,309 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-03-17 11:10:43,309 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-03-17 11:10:43,309 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-03-17 11:10:43,309 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-03-17 11:10:43,309 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-03-17 11:10:43,309 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-03-17 11:10:43,309 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-03-17 11:10:43,310 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-03-17 11:10:43,310 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-03-17 11:10:43,310 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-03-17 11:10:43,310 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-03-17 11:10:43,311 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2023-03-17 11:10:43,313 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-03-17 11:10:43,313 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [434])
+2023-03-17 11:10:43,313 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\slf4j.api_1.7.36.jar
+2023-03-17 11:10:43,313 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2023-03-17 11:10:43,314 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-03-17 11:10:43,314 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2023-03-17 11:10:43,316 [Worker-56: Launching pedidos1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\eclipse\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-03-17 11:10:43,317 [Worker-56: Launching pedidos1] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Projetos\JAVA\UFOOD\pedidos":
+2023-03-17 11:10:43,318 [Worker-56: Launching pedidos1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always spring-boot:run
+2023-03-17 12:45:32,463 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2023-03-17 12:45:32,480 [Worker-45: Launching pedidos1] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Projetos\JAVA\UFOOD\pedidos":
+2023-03-17 12:45:32,480 [Worker-45: Launching pedidos1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always spring-boot:run
+2023-03-17 12:45:51,418 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-03-17 12:46:12,285 [Worker-45: Launching pedidos] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Projetos\JAVA\UFOOD\pedidos":
